@@ -17,7 +17,7 @@ in one place.
 This data allows performing analysis based on information not necessarily available in the
 market.
 
-### Actions than can be performed:
+### Actions than can be performed using this program:
 The framework can perform the following tasks on the fly:
 
 * Calculate our market making prices and update our pricing contributions to Bloomberg and to clients. 
@@ -34,7 +34,7 @@ volatility to compute theoretical volatility parameters for Convertible Bonds.
 (Itraxx Xover, CDS and straight credit prices) to compute theoretical credit parameters for Convertible Bonds.
 
 
-### Organisations of the tasks that were put in place for the project
+### Organisations of the different tasks that were put in place for building this project:
 To build that project I had to work with several members of different IT teams (market data, pricing distribution and 
 central database). They developed the different APIs needed for the project while I was left with developing the Python 
 side of the project and the dedicated database.
