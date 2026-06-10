@@ -1,5 +1,5 @@
 # Automatic pricing and strategy learning on convertible bonds
-Project developed at Exane. This is a description of the project, the project repository is private.
+Project I designed and led while Head of European Convertible Bonds Trading at Exane. The production repository is private; this page is a public description.
 
 
 ## Project Description
